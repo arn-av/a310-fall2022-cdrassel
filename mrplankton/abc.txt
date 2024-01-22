@@ -1,0 +1,15 @@
+penup
+goto, -280, 140, 480, #AFEEEE
+pendown
+goto, 280, 140, 480, #AFEEEE
+penup
+goto, -280, -295, 480, Brown
+pendown
+goto, 280, -295, 480, Brown
+penup
+goto, 51, 90, 14, black
+pendown
+goto, 100, 50, 15, green
+penup
+pendown
+goto, 60, 35, 20, green
